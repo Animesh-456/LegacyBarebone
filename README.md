@@ -1,4 +1,4 @@
-# LegacyBarebone
+# SocketIO-Group-Chat-App
 Live chat in a room using socket.io
 
 
